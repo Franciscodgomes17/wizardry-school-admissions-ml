@@ -102,9 +102,3 @@ Final model: **Decision Tree Classifier**, selected for its interpretability and
 
 See [`requirements.txt`](./requirements.txt).
 
----
-
-## License
-
-This project is under MIT License
-
