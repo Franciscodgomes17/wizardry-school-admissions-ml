@@ -7,7 +7,7 @@ Final model: **Decision Tree Classifier**, selected for its interpretability and
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Python 3.10+**
 - **Jupyter Notebook**
@@ -19,7 +19,7 @@ Final model: **Decision Tree Classifier**, selected for its interpretability and
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ~~~text
 .
@@ -38,7 +38,7 @@ Final model: **Decision Tree Classifier**, selected for its interpretability and
 
 ---
 
-## 🔎 Methodology
+## Methodology
 
 1. **Data Preparation**  
    - Missing value imputation (KNNImputer).  
@@ -67,7 +67,7 @@ Final model: **Decision Tree Classifier**, selected for its interpretability and
 
 ---
 
-## 📊 Results
+## Results
 
 - **Best Model:** Decision Tree Classifier  
   - Tuned hyperparameters: `criterion="gini"`, `max_depth=5`, `max_leaf_nodes=7`, `min_samples_split=2`.  
@@ -78,7 +78,7 @@ Final model: **Decision Tree Classifier**, selected for its interpretability and
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository:  
    ~~~bash
@@ -98,13 +98,13 @@ Final model: **Decision Tree Classifier**, selected for its interpretability and
 
 ---
 
-## ✅ Requirements
+## Requirements
 
 See [`requirements.txt`](./requirements.txt).
 
 ---
 
-## 📄 License
+## License
 
 This project is under MIT License
 
